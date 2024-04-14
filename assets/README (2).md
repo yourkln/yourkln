@@ -10,19 +10,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 
-<code><img height="20" src="assets/python.png"></code>
-<code><img height="20" src="assets/R.png"></code>
-<code><img height="20" src="assets/c.png.png"></code>
-<code><img height="20" src="assets/c++.png"></code>
-<code><img height="20" src="assets/java.png"></code>
-<code><img height="20" src="assets/Scala.png.png"></code>
-<code><img height="20" src="assets/numpy.png"></code>
-<code><img height="20" src="assets/Pandas.png"></code>
-<code><img height="20" src="assets/Matplotlib.png"></code>
-<code><img height="20" src="assets/Scikit_learn.png"></code>
-<code><img height="20" src="assets/tensorflow.png"></code>
-<code><img height="20" src="assets/keras.png"></code>
-<code><img height="20" src="assets/torch.png"></code>
+<code><img height="20" src="./python.png"></code>
+<code><img height="20" src="./R.png"></code>
+<code><img height="20" src="./c.png.png"></code>
+<code><img height="20" src="./c++.png"></code>
+<code><img height="20" src="./java.png"></code>
+<code><img height="20" src="./Scala.png.png"></code>
+<code><img height="20" src="./numpy.png"></code>
+<code><img height="20" src="./Pandas.png"></code>
+<code><img height="20" src="./Matplotlib.png"></code>
+<code><img height="20" src="./Scikit_learn.png"></code>
+<code><img height="20" src="./tensorflow.png"></code>
+<code><img height="20" src="./keras.png"></code>
+<code><img height="20" src="./torch.png"></code>
 
 
 
