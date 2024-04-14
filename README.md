@@ -33,8 +33,13 @@
 
 </p>
 <h3>Open source projects</h3>
+<p>A major project is on the horizon—stay tuned!</p>
+<br>
 <p align="center">
-  <img src="assets/dragon.png"/>
+    <video>
+    <source src="assets/brand.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/yourkln" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ahmed_bendrioua" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmedbendrioua" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ahmedbendrioua" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
