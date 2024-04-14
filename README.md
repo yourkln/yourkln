@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! you look lonely.</h1>
 
 <p align="center">
-  <img src="assets/Blade_Runner 2049.gif" style="width=1000px"/>
+  <img src="assets/Blade_Runner 2049.gif" style="width: 1000px"/>
 </p>
 <p>Welcome to my page! </br> I'm Ahmed, pursuing my engineering degree in data science and machine learning and I hold a Bachelor’s degree in Mathematics and Computer Software Engineering.
 
