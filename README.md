@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Ahmed, pursuing my engineering degree in data science and machine learning and I hold a Bachelor’s degree in Mathematics and Computer Software Engineering.
+<img src="assets/Blade_Runner 2049.gif"/>
 <h3>Things I work with</h3>
 <p>
     
