@@ -1,4 +1,4 @@
-<h1><img src="/assets/martinez.gif" width="30"/> Hey! you look lonely.</h1>
+<h1><img src="/assets/disk.gif" width="20"/> Hey! you look lonely.</h1>
 
 
 <p align="center">
