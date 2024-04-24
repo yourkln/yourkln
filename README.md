@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/Blade_Runner 2049.gif" style="width: 1000px"/>
+  <img src="assets/yourkln_game.gif" style="width: 1000px"/>
 </p>
 <p>Welcome to my page! </br> I'm Ahmed, pursuing my engineering degree in data science and machine learning and I hold a Bachelor’s degree in Mathematics and Computer Software Engineering.
 
